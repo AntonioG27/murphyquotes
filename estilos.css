@@ -1,0 +1,103 @@
+body{
+
+    background-color: #b1b0b0 ;
+    
+    }
+
+#titulo {
+
+    font-weight: bolder;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+#frase1{
+
+    background-color: #fec650 ;
+    width: 1000px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color:peachpuff;
+    text-align: center;
+    align-content: center;
+
+    /*
+    display: flex;
+    flex-direction: column;
+    align-items: center;*/
+   
+}
+
+#frase2{
+
+    background-color:#69fcf5 ;
+    width: 600px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color: #4ab5fa;
+    text-align: right;
+    align-content: center;
+
+}
+
+#frase3{
+
+    background-color:#f5fc62 ;
+    width: 600px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color: #f5fa4a;
+    text-align: left;
+    align-content: center;
+    
+}
+
+#frase4{
+
+    background-color: #3bf964 ;
+    width: 600px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color: #30b90b;
+    text-align: center;
+    align-content: center;
+    
+}
+
+#frase5{
+
+    background-color: #dea0ff ;
+    width: 600px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color: #b04dfe;
+    text-align: left ;
+    align-content: center;
+    
+}
+
+#frase6{
+
+    background-color: #fb717b ;
+    width: 600px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 2px solid;
+    border-color: #ad220f;
+    text-align: right;
+    align-content: center;
+    
+}
